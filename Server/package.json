@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Vincent",
+  "license": "ISC",
+  "engines": {
+    "node": "16.11"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "dotenv": "^14.2.0",
+    "socket.io": "^4.4.1"
+  }
+}

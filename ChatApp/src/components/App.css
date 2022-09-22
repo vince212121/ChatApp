@@ -1,0 +1,20 @@
+.chatList {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  margin-left: 2vw;
+  box-sizing: border-box;
+  height: calc(65vh);
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.chatBubble {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  padding-inline: 2vw;
+  width: 65vw;
+  margin-bottom: -1em;
+  border-radius: 10px;
+  color: white;
+}
+
